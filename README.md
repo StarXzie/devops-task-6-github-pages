@@ -13,7 +13,7 @@ Deploy a simple HTML website using GitHub Pages.
 5. Customized the look with CSS (gradient header, cards, hover effect, responsive layout).
 
 ## Live website
-`https://<your-username>.github.io/<repo-name>/`
+`https://starxzie.github.io/devops-task-6-github-pages/`
 
 ## Files
 - `index.html` – page content
